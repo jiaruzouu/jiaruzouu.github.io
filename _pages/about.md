@@ -6,7 +6,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hello World!
 I am currently a second-year M.S. student (with thesis) in Computer Science at University of Illinois Urbana-Champaign (UIUC). I am a member of [iDEA-iSAIL Lab](https://www.idea-isail.com/index.html), advised by [Prof. Jingrui He](https://www.hejingrui.org/). Prior to this, I earned my B.S. with highest honors in Computer Engineering at UIUC. I have been fortunate to work with [Prof. Mengdi Wang](https://mwang.princeton.edu/) at Princeton University, and [Prof. James Zou](https://www.james-zou.com/) at Stanford University. Currently, I am a student researcher at [Google DeepMind](https://deepmind.google/). I also held research internships at [Amazon](https://www.amazon.science/) and [Microsoft Research](https://www.microsoft.com/en-us/research/) before.  
 
 My research lies in the intersection of machine learning and natural language processing, with a specific focus on **LLMs Reasoning**. My research interests include:
@@ -19,7 +18,7 @@ I’m always happy to connect! Feel free to email me if you’d like to discuss 
 📌 <span style="color:red">I am actively seeking Ph.D. opportunities starting in Fall 2026. If there is a good fit, please feel free to reach out to me through email at jiaruz2 [at] illinois [dot] edu.</span>
 
 
-## 📢 News
+# 📢 News
 
 **[10/2025]** Check [**TaTToo**](https://arxiv.org/abs/2510.06217), a special tool-grounded thinking PRM for test time scaling in tabular reasoning.\
 **[09/2025]** Two papers accepted at NeurIPS 2025, including [**Transformer Copilot**](https://arxiv.org/abs/2505.16270) (<span style="color:red">**spotlight paper**, top 3%</span>) and [**ReasonFlux-PRM**](https://arxiv.org/abs/2506.18896).\
@@ -27,9 +26,8 @@ I’m always happy to connect! Feel free to email me if you’d like to discuss 
 **[05/2025]** Start my internship as an applied scientist at Amazon.\
 **[05/2025]** One paper accepted at ACL 2025: [**STEM-PoM**](https://arxiv.org/abs/2411.00387), a benchmark on math-symbol reasoning.
 
-## 📄 Selected Publications ([Full List](https://scholar.google.com/citations?user=GzLTey4AAAAJ&hl=en))
+# 📄 Selected Publications ([Full List](https://scholar.google.com/citations?user=GzLTey4AAAAJ&hl=en))
 (* denotes Equal Contribution)
-
 
 <table style="border-collapse:collapse; border:none; margin:0; padding:0;">
 <tr>
@@ -48,9 +46,13 @@ I’m always happy to connect! Feel free to email me if you’d like to discuss 
        style="font-size:18px; font-weight:bold; color:inherit; text-decoration:none;">
       TaTToo: Tool-Grounded Thinking PRM for Test-Time Scaling in Tabular Reasoning
     </a><br/>
-    <strong>Jiaru Zou</strong>, Soumya Roy, Vinay Kumar Verma, Ziyi Wang, David Wipf, Pan Lu, 
-    Sumit Negi, James Zou, Jingrui He<br/>
-    <strong>FoRLM, NeurIPS 2025</strong>
+    <span style="font-size:16px;">
+      <strong>Jiaru Zou</strong>, Soumya Roy, Vinay Kumar Verma, Ziyi Wang, David Wipf, Pan Lu, 
+      Sumit Negi, James Zou, Jingrui He
+    </span><br/>
+    <span style="font-size:16px; font-weight:bold;">
+      FoRLM, NeurIPS 2025
+    </span>
   </p>
   <p>
     <a href="https://arxiv.org/pdf/2510.06217" 
@@ -81,8 +83,10 @@ I’m always happy to connect! Feel free to email me if you’d like to discuss 
        style="font-size:18px; font-weight:bold; color:inherit; text-decoration:none;">
       RAG over Tables: Hierarchical Memory Index, Multi-Stage Retrieval, and Benchmarking
     </a><br/>
-    <strong>Jiaru Zou</strong>, Dongqi Fu, Sirui Chen, Xinrui He, Zihao Li, Yada Zhu, Jiawei Han, Jingrui He<br/>
-    <strong>Preprint</strong>
+    <span style="font-size:16px;">
+      <strong>Jiaru Zou</strong>, Dongqi Fu, Sirui Chen, Xinrui He, Zihao Li, Yada Zhu, Jiawei Han, Jingrui He
+    </span><br/>
+    <span style="font-size:16px;"><strong>Preprint</strong></span>
   </p>
   <p>
     <a href="https://arxiv.org/abs/2504.01346v4" 
@@ -91,6 +95,8 @@ I’m always happy to connect! Feel free to email me if you’d like to discuss 
        style="border:1px solid black; padding:3px 6px; text-decoration:none;">Data</a>
     <a href="https://github.com/jiaruzouu/T-RAG" 
        style="border:1px solid black; padding:3px 6px; text-decoration:none;">Code</a>
+    <a href="https://medium.com/@namanlazarus/gtr-graph-table-rag-for-cross-table-question-answering-f8ed7cdc44cf" 
+       style="border:1px solid black; padding:3px 6px; text-decoration:none;">Medium</a>
   </p>
 </td>
 </tr>
@@ -113,8 +119,12 @@ I’m always happy to connect! Feel free to email me if you’d like to discuss 
        style="font-size:18px; font-weight:bold; color:inherit; text-decoration:none;">
       Transformer Copilot: Learning from The Mistake Log in LLM Fine-tuning
     </a><br/>
-    <strong>Jiaru Zou</strong>, Yikun Ban, Zihao Li, Yunzhe Qi, Ruizhong Qiu, Ling Yang, Jingrui He<br/>
-    <strong>NeurIPS 2025 <span style="color:#FF4C4C;">(spotlight, top 3%)</span></strong>
+    <span style="font-size:16px;">
+      <strong>Jiaru Zou</strong>, Yikun Ban, Zihao Li, Yunzhe Qi, Ruizhong Qiu, Ling Yang, Jingrui He
+    </span><br/>
+    <span style="font-size:16px;">
+      <strong>NeurIPS 2025 <span style="color:#FF4C4C;">(spotlight, top 3%)</span></strong>
+    </span>
   </p>
   <p>
     <a href="https://arxiv.org/pdf/2505.16270"
@@ -125,7 +135,7 @@ I’m always happy to connect! Feel free to email me if you’d like to discuss 
 </td>
 </tr>
 
-<tr><td colspan="2" style="height:24px;"></td></tr>
+
 
 <tr>
 <td width="160" style="border:none; vertical-align:top;">
@@ -143,8 +153,12 @@ I’m always happy to connect! Feel free to email me if you’d like to discuss 
        style="font-size:18px; font-weight:bold; color:inherit; text-decoration:none;">
       ReasonFlux-PRM: Trajectory-Aware PRMs for Long Chain-of-Thought Reasoning in LLMs
     </a><br/>
-    <strong>Jiaru Zou*</strong>, Ling Yang*, Jingwen Gu*, Jiahao Qiu, Ke Shen, Jingrui He, Mengdi Wang<br/>
-    <strong>NeurIPS 2025</strong>
+    <span style="font-size:16px;">
+      <strong>Jiaru Zou*</strong>, Ling Yang*, Jingwen Gu*, Jiahao Qiu, Ke Shen, Jingrui He, Mengdi Wang
+    </span><br/>
+    <span style="font-size:16px;">
+      <strong>NeurIPS 2025 <span style="color:#FF4C4C;">(500+ stars on GitHub)</span></strong>
+    </span>
   </p>
   <p>
     <a href="https://arxiv.org/pdf/2506.18896"
@@ -159,7 +173,7 @@ I’m always happy to connect! Feel free to email me if you’d like to discuss 
 </td>
 </tr>
 
-<tr><td colspan="2" style="height:24px;"></td></tr>
+
 
 <tr>
 <td width="160" style="border:none; vertical-align:top;">
@@ -177,8 +191,12 @@ I’m always happy to connect! Feel free to email me if you’d like to discuss 
        style="font-size:18px; font-weight:bold; color:inherit; text-decoration:none;">
       STEM-PoM: Evaluating Language Models Math-Symbol Reasoning in Document Parsing
     </a><br/>
-    <strong>Jiaru Zou</strong>, Qing Wang, Pratyush Thakur, Nickvash Kani<br/>
-    <strong>ACL 2025; Math-AI, NeurIPS 2024</strong>
+    <span style="font-size:16px;">
+      <strong>Jiaru Zou</strong>, Qing Wang, Pratyush Thakur, Nickvash Kani
+    </span><br/>
+    <span style="font-size:16px;">
+      <strong>ACL 2025; Math-AI, NeurIPS 2024</strong>
+    </span>
   </p>
   <p>
     <a href="https://arxiv.org/pdf/2411.00387"
@@ -207,8 +225,10 @@ I’m always happy to connect! Feel free to email me if you’d like to discuss 
        style="font-size:18px; font-weight:bold; color:inherit; text-decoration:none;">
       PageRank Bandits for Link Prediction
     </a><br/>
-    Yikun Ban*, <strong>Jiaru Zou*</strong>, Zihao Li, Yunzhe Qi, Dongqi Fu, Jian Kang, Hanghang Tong, Jingrui He<br/>
-    <strong>NeurIPS 2024</strong>
+    <span style="font-size:16px;">
+      Yikun Ban*, <strong>Jiaru Zou*</strong>, Zihao Li, Yunzhe Qi, Dongqi Fu, Jian Kang, Hanghang Tong, Jingrui He
+    </span><br/>
+    <span style="font-size:16px;"><strong>NeurIPS 2024</strong></span>
   </p>
   <p>
     <a href="https://openreview.net/pdf?id=VSz9na5Jtl"
@@ -219,7 +239,7 @@ I’m always happy to connect! Feel free to email me if you’d like to discuss 
 </td>
 </tr>
 
-<tr><td colspan="2" style="height:24px;"></td></tr>
+
 
 <tr>
 <td width="160" style="border:none; vertical-align:top;">
@@ -237,8 +257,10 @@ I’m always happy to connect! Feel free to email me if you’d like to discuss 
        style="font-size:18px; font-weight:bold; color:inherit; text-decoration:none;">
       PromptIntern: Saving Inference Costs by Internalizing Recurrent Prompt during LLM Fine-tuning
     </a><br/>
-    <strong>Jiaru Zou</strong>, Mengyu Zhou, Tao Li, Shi Han, Dongmei Zhang<br/>
-    <strong>EMNLP 2024</strong>
+    <span style="font-size:16px;">
+      <strong>Jiaru Zou</strong>, Mengyu Zhou, Tao Li, Shi Han, Dongmei Zhang
+    </span><br/>
+    <span style="font-size:16px;"><strong>EMNLP 2024</strong></span>
   </p>
   <p>
     <a href="https://arxiv.org/pdf/2407.02211"
@@ -249,7 +271,7 @@ I’m always happy to connect! Feel free to email me if you’d like to discuss 
 </td>
 </tr>
 
-<tr><td colspan="2" style="height:24px;"></td></tr>
+
 
 <tr>
 <td width="160" style="border:none; vertical-align:top;">
@@ -267,17 +289,21 @@ I’m always happy to connect! Feel free to email me if you’d like to discuss 
        style="font-size:18px; font-weight:bold; color:inherit; text-decoration:none;">
       TAP4LLM: Table Provider on Sampling, Augmenting, and Packing Semi-structured Data for Large Language Model Reasoning
     </a><br/>
-    Yuan Sui*, <strong>Jiaru Zou*</strong>, Mengyu Zhou, Xinyi He, Lun Du, Shi Han, Dongmei Zhang<br/>
+    <span style="font-size:16px;">
+      Yuan Sui*, <strong>Jiaru Zou*</strong>, Mengyu Zhou, Xinyi He, Lun Du, Shi Han, Dongmei Zhang
+    </span><br/>
+    <span style="font-size:16px;">
       <strong>
-        EMNLP 2024;
+        EMNLP 2024
         <span style="color:#FF4C4C;">
-          Featured in 
+          (Featured in 
           <a href="https://www.microsoft.com/en-us/microsoft-365/copilot/try-copilot-chat?ccac=copilotchat&ef_id=_k_Cj0KCQjwgKjHBhChARIsAPJR3xdO56awHpRnTMoSDnW0sCOeTawVcY3uODYt7rpsdyYCq5mjAFOurWEaAoJ-EALw_wcB_k_&OCID=AIDcmmhexn0fwe_SEM__k_Cj0KCQjwgKjHBhChARIsAPJR3xdO56awHpRnTMoSDnW0sCOeTawVcY3uODYt7rpsdyYCq5mjAFOurWEaAoJ-EALw_wcB_k_&gad_source=1&gad_campaignid=22353285968&gbraid=0AAAAADcJh_v7YsYOXtUgWuGXSxB6hjMC6&gclid=Cj0KCQjwgKjHBhChARIsAPJR3xdO56awHpRnTMoSDnW0sCOeTawVcY3uODYt7rpsdyYCq5mjAFOurWEaAoJ-EALw_wcB"
             style="color:#FF4C4C; text-decoration:none; font-weight:bold;">
-            Microsoft Excel Copilot
+            Microsoft Excel Copilot)
           </a>
         </span>
-    </strong>
+      </strong>
+    </span>
   </p>
   <p>
     <a href="https://arxiv.org/pdf/2312.09039"
@@ -289,10 +315,206 @@ I’m always happy to connect! Feel free to email me if you’d like to discuss 
 </tr>
 </table>
 
-## Experience
+<br>
 
-## Selected Honors & Awards
+# 💼 Selected Experience
 
-## Academic Services
+<table style="width:100%; border:none !important; border-collapse:collapse !important; margin:0 !important; padding:0 !important; background:transparent !important;">
+  <tr style="border:none !important;">
+    <td style="vertical-align:top; text-align:left; padding:0 !important; border:none !important;">
+      <p style="margin:0; font-size:22px; font-weight:600; color:inherit;">
+        Princeton AI Lab
+      </p>
+      <p style="margin:4px 0 0 0; font-size:18px; color:inherit;">
+        Research Assistant, 2025
+      </p>
+      <p style="margin:4px 0 0 0; font-size:18px; color:inherit;">
+        Research Topic: <strong>Agentic RL, GUI Agent, AI for Science</strong>
+      </p>
+    </td>
 
-## Miscellaneous
+    <td style="text-align:right; vertical-align:middle; padding:0 !important; border:none !important;">
+      <img src="images/company/princeton.png"
+           style="width:250px; max-width:100%; border-radius:8px; box-shadow:0 4px 12px rgba(0,0,0,0.08);"/>
+    </td>
+  </tr>
+</table>
+
+
+<br>
+
+<table style="width:100%; border:none !important; border-collapse:collapse !important; margin:0 !important; padding:0 !important; background:transparent !important;">
+  <tr style="border:none !important;">
+    <!-- Left column -->
+    <td style="vertical-align:top; text-align:left; padding:0 !important; border:none !important;">
+      <p style="margin:0; font-size:22px; font-weight:600; color:var(--text-primary);">
+        Google DeepMind
+      </p>
+      <p style="margin:4px 0 0 0; font-size:18px; color:var(--text-secondary);">
+        Student Researcher (part-time), 2025
+      </p>
+      <p style="margin:4px 0 0 0; font-size:18px; color:var(--text-secondary);">
+        Research Topic: <strong>Agentic RL, GUI Agent, AI for Science</strong>
+      </p>
+    </td>
+
+    <!-- Right column -->
+    <td style="text-align:right; vertical-align:middle; padding:0 !important; border:none !important;">
+      <img src="images/company/gdm.png" alt="Google DeepMind Logo"
+           style="width:240px; max-width:100%; border-radius:8px; box-shadow:0 4px 12px rgba(0,0,0,0.08);"/>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<table style="width:100%; border:none !important; border-collapse:collapse !important; margin:0 !important; padding:0 !important; background:transparent !important;">
+  <tr style="border:none !important;">
+    <!-- Left column -->
+    <td style="vertical-align:top; text-align:left; padding:0 !important; border:none !important;">
+      <p style="margin:0; font-size:22px; font-weight:600; color:var(--text-primary);">
+        Amazon
+      </p>
+      <p style="margin:4px 0 0 0; font-size:18px; color:var(--text-secondary);">
+        Applied Scientist Intern, 2025
+      </p>
+      <p style="margin:4px 0 0 0; font-size:18px; color:var(--text-secondary);">
+        Research Topic: <strong>Reward Modeling, Speculative Decoding</strong>
+      </p>
+    </td>
+
+    <!-- Right column -->
+    <td style="text-align:right; vertical-align:middle; padding:0 !important; border:none !important;">
+      <img src="images/company/amazon.png" alt="Google DeepMind Logo"
+           style="width:210px; max-width:100%; border-radius:8px; box-shadow:0 4px 12px rgba(0,0,0,0.08);"/>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<table style="width:100%; border:none !important; border-collapse:collapse !important; margin:0 !important; padding:0 !important; background:transparent !important;">
+  <tr style="border:none !important;">
+    <!-- Left column -->
+    <td style="vertical-align:top; text-align:left; padding:0 !important; border:none !important;">
+      <p style="margin:0; font-size:22px; font-weight:600; color:var(--text-primary);">
+        Microsoft Research
+      </p>
+      <p style="margin:4px 0 0 0; font-size:18px; color:var(--text-secondary);">
+        Research Intern, 2023-2024
+      </p>
+      <p style="margin:4px 0 0 0; font-size:18px; color:var(--text-secondary);">
+        Research Topic: <strong>Stucture data representation learning, Code generation, Prompt Compression, Data Pruning</strong>
+      </p>
+    </td>
+
+    <!-- Right column -->
+    <td style="text-align:right; vertical-align:middle; padding:0 !important; border:none !important;">
+      <img src="images/company/msr.png" alt="Google DeepMind Logo"
+           style="width:340px; max-width:100%; border-radius:8px; box-shadow:0 4px 12px rgba(0,0,0,0.08);"/>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+
+# ✨ Honors & Awards
+
+- NeurIPS 2025 Financial Aid Award, 2025
+- Highest Honor Graduation at UIUC, 2024
+- Microsoft Stars of Tomorrow Award, 2023
+- O. Thomas and Martha S. Purl Scholarship, 2023
+- Daniel W. and Carol A. Dobberpuhl Student Award, 2023
+- Illinois Engineering Outstanding & Achievement Scholarship, 2023
+- Professor N. Narayana Rao Scholarship, 2022
+- Edmund J. James Scholarship, 2021
+
+# 🌍 Academic Services
+
+- **Conference Program Committee/Reviewer:** ICLR 2026, AAAI 2026, NeurIPS 2025, ICML 2025, ARR Rolling Review (Oct 2024, Dec 2024, May 2025, July 2025, Oct 2025)
+
+- **Journal Reviewer:** IEEE Transactions on Knowledge and Data Engineering (TKDE), ACM Transactions on Knowledge Discovery from Data (TKDD), ACM Computing Surveys
+
+- **Conference Student Volunteer:** EMNLP’24, NeurIPS’24
+
+- **Teaching Experience:**
+  - **Graduate Teaching Assistant:** UIUC CS307 (Fall 2024), UIUC CS128 (Spring 2025)
+  - **Course Assistant/Grader:** UIUC CS/ECE374 (Head CA), ECE210, ECE310, ECE313
+
+# 🧩 Miscellaneous
+
+<p style="font-size:18px; line-height:1.6; color:inherit;">
+  I’m a <strong>boarder</strong> through and through — 🏂 snowboarding is my favorite ride 
+  (my setup: <strong>Burton Custom X Flying V</strong> for all-mountain ride, and 
+  <strong>YES BASIC</strong> for freestyle and park ride). 
+  You’ll also find me carving pavement on a skateboard or chasing waves on a surfboard. 
+  Maybe one day I’ll earn my spot as an 
+  <a href="https://www.xgames.com/" target="_blank" style="color:#003366; font-weight:bold; text-decoration:none;">
+    X-Gamer
+  </a>. Some of my riding pictures below:
+</p>
+
+
+<p style="margin-top:10px;">
+  <a href="images/misc/snowboard1.png" target="_blank">
+    <img src="images/misc/snowboard1.png" width="80" style="border-radius:8px; margin-right:8px; box-shadow:0 4px 10px rgba(0,0,0,0.15); transition:0.3s;"/>
+  </a>
+  <a href="images/misc/snowboard2.png" target="_blank">
+    <img src="images/misc/snowboard2.png" width="180" style="border-radius:8px; margin-right:8px; box-shadow:0 4px 10px rgba(0,0,0,0.15); transition:0.3s;"/>
+  </a>
+  <a href="images/misc/snowboard3.png" target="_blank">
+    <img src="images/misc/snowboard3.png" width="180" style="border-radius:8px; box-shadow:0 4px 10px rgba(0,0,0,0.15); transition:0.3s;"/>
+  </a>
+</p>
+
+<p style="font-size:18px; line-height:1.6; color:inherit;">
+  I am also a fan of <strong>📸 Conceptual Photography</strong> and <strong>🎨 Visual Aesthetics</strong>.
+</p>
+<div style="border-left:4px solid #003366; padding-left:14px; margin:12px 0; color:#444; font-size:16px; font-style:italic; background:#f9f9f9; border-radius:6px; box-shadow:0 2px 6px rgba(0,0,0,0.05);">
+  A glimpse of my visual world — abstract forms, motion, and color captured through my lens.
+</div>
+
+
+<div style="
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(40px, 1fr));
+  gap: 10px;
+  margin-top: 16px;">
+  <a href="images/misc/b93c729316bb94196bbe70b4074807c6.jpg" target="_blank">
+    <img src="images/misc/b93c729316bb94196bbe70b4074807c6.jpg"
+         alt="Color abstraction"
+         style="width:100%; height:100%; object-fit:cover; border-radius:8px; transition:transform 0.3s, box-shadow 0.3s;"/>
+  </a>
+  
+  <a href="images/misc/2ad0e86916a6ae9b5b4d7a4748d0757d.jpg" target="_blank">
+    <img src="images/misc/2ad0e86916a6ae9b5b4d7a4748d0757d.jpg"
+         alt="Abstract installation"
+         style="width:100%; height:100%; object-fit:cover; border-radius:8px; transition:transform 0.3s, box-shadow 0.3s;"/>
+  </a>
+
+  <a href="images/misc/d7eb8e489f64ebcc6b0eadcbabc45739.jpg" target="_blank">
+    <img src="images/misc/d7eb8e489f64ebcc6b0eadcbabc45739.jpg"
+         alt="Portrait fusion"
+         style="width:100%; height:100%; object-fit:cover; border-radius:8px; transition:transform 0.3s, box-shadow 0.3s;"/>
+  </a>
+
+  <a href="images/misc/6c39df5c865ad0a60dc995d1d4755ef3.jpg" target="_blank">
+    <img src="images/misc/6c39df5c865ad0a60dc995d1d4755ef3.jpg"
+         alt="Ruined structure"
+         style="width:100%; height:100%; object-fit:cover; border-radius:8px; transition:transform 0.3s, box-shadow 0.3s;"/>
+  </a>
+
+  <a href="images/misc/a387b395a0e1692f86724ea34d3739de.jpg" target="_blank">
+    <img src="images/misc/a387b395a0e1692f86724ea34d3739de.jpg"
+         alt="Horse close-up"
+         style="width:100%; height:100%; object-fit:cover; border-radius:8px; transition:transform 0.3s, box-shadow 0.3s;"/>
+  </a>
+</div>
+
+<style>
+  img:hover {
+    transform: scale(1.05);
+    box-shadow: 0 8px 24px rgba(0,0,0,0.25);
+  }
+</style>
