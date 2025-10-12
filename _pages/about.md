@@ -323,7 +323,7 @@ I’m always happy to connect! Feel free to email me if you’d like to discuss 
 <table style="width:100%; border:none !important; border-collapse:collapse !important; margin:0 !important; padding:0 !important; background:transparent !important;">
   <tr style="border:none !important;">
     <td style="vertical-align:top; text-align:left; padding:0 !important; border:none !important;">
-      <p style="margin:0; font-size:22px; font-weight:600; color:inherit;">
+      <p style="margin:0; font-size:20px; font-weight:600; color:inherit;">
         Princeton AI Lab
       </p>
       <p style="margin:4px 0 0 0; font-size:18px; color:inherit;">
@@ -348,7 +348,7 @@ I’m always happy to connect! Feel free to email me if you’d like to discuss 
   <tr style="border:none !important;">
     <!-- Left column -->
     <td style="vertical-align:top; text-align:left; padding:0 !important; border:none !important;">
-      <p style="margin:0; font-size:22px; font-weight:600; color:var(--text-primary);">
+      <p style="margin:0; font-size:20px; font-weight:600; color:var(--text-primary);">
         Google DeepMind
       </p>
       <p style="margin:4px 0 0 0; font-size:18px; color:var(--text-secondary);">
@@ -373,7 +373,7 @@ I’m always happy to connect! Feel free to email me if you’d like to discuss 
   <tr style="border:none !important;">
     <!-- Left column -->
     <td style="vertical-align:top; text-align:left; padding:0 !important; border:none !important;">
-      <p style="margin:0; font-size:22px; font-weight:600; color:var(--text-primary);">
+      <p style="margin:0; font-size:20px; font-weight:600; color:var(--text-primary);">
         Amazon
       </p>
       <p style="margin:4px 0 0 0; font-size:18px; color:var(--text-secondary);">
@@ -398,7 +398,7 @@ I’m always happy to connect! Feel free to email me if you’d like to discuss 
   <tr style="border:none !important;">
     <!-- Left column -->
     <td style="vertical-align:top; text-align:left; padding:0 !important; border:none !important;">
-      <p style="margin:0; font-size:22px; font-weight:600; color:var(--text-primary);">
+      <p style="margin:0; font-size:20px; font-weight:600; color:var(--text-primary);">
         Microsoft Research
       </p>
       <p style="margin:4px 0 0 0; font-size:18px; color:var(--text-secondary);">
