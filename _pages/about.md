@@ -335,7 +335,7 @@ I’m always happy to connect! Feel free to email me if you’d like to discuss 
     </td>
 
     <td style="text-align:right; vertical-align:middle; padding:0 !important; border:none !important;">
-      <img src="images/company/princeton.png"
+      <img src="images/company/princeton.png" alt="Princeton Logo"
            style="width:250px; max-width:100%; border-radius:8px; box-shadow:0 4px 12px rgba(0,0,0,0.08);"/>
     </td>
   </tr>
@@ -386,7 +386,7 @@ I’m always happy to connect! Feel free to email me if you’d like to discuss 
 
     <!-- Right column -->
     <td style="text-align:right; vertical-align:middle; padding:0 !important; border:none !important;">
-      <img src="images/company/amazon.png" alt="Google DeepMind Logo"
+      <img src="images/company/amazon.png" alt="Amazon Logo"
            style="width:210px; max-width:100%; border-radius:8px; box-shadow:0 4px 12px rgba(0,0,0,0.08);"/>
     </td>
   </tr>
@@ -411,7 +411,7 @@ I’m always happy to connect! Feel free to email me if you’d like to discuss 
 
     <!-- Right column -->
     <td style="text-align:right; vertical-align:middle; padding:0 !important; border:none !important;">
-      <img src="images/company/msr.png" alt="Google DeepMind Logo"
+      <img src="images/company/msr.png" alt="MicrosoftLogo"
            style="width:340px; max-width:100%; border-radius:8px; box-shadow:0 4px 12px rgba(0,0,0,0.08);"/>
     </td>
   </tr>
