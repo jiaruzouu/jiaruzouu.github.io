@@ -483,32 +483,32 @@ I’m always happy to connect! Feel free to email me if you’d like to discuss 
   grid-template-columns: repeat(auto-fit, minmax(40px, 1fr));
   gap: 10px;
   margin-top: 16px;">
-  <a href="images/misc/b93c729316bb94196bbe70b4074807c6.jpg" target="_blank">
-    <img src="images/misc/b93c729316bb94196bbe70b4074807c6.jpg"
+  <a href="images/misc/art1.png" target="_blank">
+    <img src="images/misc/art1.png"
          alt="Color abstraction"
          style="width:100%; height:100%; object-fit:cover; border-radius:8px; transition:transform 0.3s, box-shadow 0.3s;"/>
   </a>
   
-  <a href="images/misc/2ad0e86916a6ae9b5b4d7a4748d0757d.jpg" target="_blank">
-    <img src="images/misc/2ad0e86916a6ae9b5b4d7a4748d0757d.jpg"
+  <a href="images/misc/art2.png" target="_blank">
+    <img src="images/misc/art2.png"
          alt="Abstract installation"
          style="width:100%; height:100%; object-fit:cover; border-radius:8px; transition:transform 0.3s, box-shadow 0.3s;"/>
   </a>
 
-  <a href="images/misc/d7eb8e489f64ebcc6b0eadcbabc45739.jpg" target="_blank">
-    <img src="images/misc/d7eb8e489f64ebcc6b0eadcbabc45739.jpg"
+  <a href="images/misc/art3.png" target="_blank">
+    <img src="images/misc/art3.png"
          alt="Portrait fusion"
          style="width:100%; height:100%; object-fit:cover; border-radius:8px; transition:transform 0.3s, box-shadow 0.3s;"/>
   </a>
 
-  <a href="images/misc/6c39df5c865ad0a60dc995d1d4755ef3.jpg" target="_blank">
-    <img src="images/misc/6c39df5c865ad0a60dc995d1d4755ef3.jpg"
+  <a href="images/misc/art4.png" target="_blank">
+    <img src="images/misc/art4.png"
          alt="Ruined structure"
          style="width:100%; height:100%; object-fit:cover; border-radius:8px; transition:transform 0.3s, box-shadow 0.3s;"/>
   </a>
 
-  <a href="images/misc/a387b395a0e1692f86724ea34d3739de.jpg" target="_blank">
-    <img src="images/misc/a387b395a0e1692f86724ea34d3739de.jpg"
+  <a href="images/misc/art5.png" target="_blank">
+    <img src="images/misc/art5.png"
          alt="Horse close-up"
          style="width:100%; height:100%; object-fit:cover; border-radius:8px; transition:transform 0.3s, box-shadow 0.3s;"/>
   </a>
