@@ -8,10 +8,11 @@ redirect_from:
 ---
 I am currently a second-year M.S. student (with thesis) in Computer Science at University of Illinois Urbana-Champaign (UIUC). I am a member of [iDEA-iSAIL Lab](https://www.idea-isail.com/index.html), advised by [Prof. Jingrui He](https://www.hejingrui.org/). Prior to this, I earned my B.S. with highest honors in Computer Engineering at UIUC. I have been fortunate to work with [Prof. Mengdi Wang](https://mwang.princeton.edu/) at Princeton University, and [Prof. James Zou](https://www.james-zou.com/) at Stanford University. Currently, I am a student researcher at [Google DeepMind](https://deepmind.google/). I also held research internships at [Amazon](https://www.amazon.science/) and [Microsoft Research](https://www.microsoft.com/en-us/research/) before.  
 
-My research lies in the intersection of machine learning and natural language processing, with a specific focus on **LLMs Reasoning**. My research interests include:
-- **Agentic AI:** single/multi-agent systems, tool integrated LLMs, reward modeling.
-- **Data-centric Learning:** structure/multimodal data representation learning, effecient data selection and pruning.
-- **Scientic Foundation Models:** AI for X (weather forecasting, agriculture, clinic discovery, etc.), and science paper agents.
+My research lies in the intersection of **machine learning** and **natural language processing**, with a specific focus on **LLMs Reasoning**. My research interests include but not limit to:
+- **Agentic AI:** single/multi-agent systems, tool integrated LLMs.
+- **LLM Post-Training:** RLHF, reward modeling.
+- **Data-Centric Learning:** structure/multimodal data representation learning, effecient data selection and pruning.
+- **Scientific Foundation Models:** AI for X (social science, weather forecasting, agriculture, clinic discovery, etc.).
 
 I’m always happy to connect! Feel free to email me if you’d like to discuss my research interests or potential collaborations!
 
@@ -21,7 +22,7 @@ I’m always happy to connect! Feel free to email me if you’d like to discuss 
 # 📢 News
 
 **[10/2025]** Check [**TaTToo**](https://arxiv.org/abs/2510.06217), a special tool-grounded thinking PRM for test time scaling in tabular reasoning.\
-**[09/2025]** Two papers accepted at NeurIPS 2025, including [**Transformer Copilot**](https://arxiv.org/abs/2505.16270) (<span style="color:red">**spotlight paper**, top 3%</span>) and [**ReasonFlux-PRM**](https://arxiv.org/abs/2506.18896).\
+**[09/2025]** Two papers accepted at NeurIPS 2025, including [**Transformer Copilot**](https://arxiv.org/abs/2505.16270) (<span style="color:red">**spotlight paper, top 3%**</span>) and [**ReasonFlux-PRM**](https://arxiv.org/abs/2506.18896).\
 **[08/2025]** Start my internship as a student researcher at Google DeepMind GenAI team.\
 **[05/2025]** Start my internship as an applied scientist at Amazon.\
 **[05/2025]** One paper accepted at ACL 2025: [**STEM-PoM**](https://arxiv.org/abs/2411.00387), a benchmark on math-symbol reasoning.
@@ -441,6 +442,7 @@ I’m always happy to connect! Feel free to email me if you’d like to discuss 
 - **Teaching Experience:**
   - **Graduate Teaching Assistant:** UIUC CS307 (Fall 2024), UIUC CS128 (Spring 2025)
   - **Course Assistant/Grader:** UIUC CS/ECE374 (Head CA), ECE210, ECE310, ECE313
+
 
 # 🧩 Miscellaneous
 
