@@ -332,7 +332,7 @@ I’m always happy to connect! Feel free to email me if you’d like to discuss 
         Research Assistant, 2025
       </p>
       <p style="margin:4px 0 0 0; font-size:18px; color:inherit;">
-        Research Topic: <strong>Agentic RL, GUI Agent, AI for Science</strong>
+        Research Topic: <strong>Process Reward Model, LLM Agents</strong>
       </p>
     </td>
 
