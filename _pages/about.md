@@ -96,6 +96,8 @@ I’m always happy to connect! Feel free to email me if you’d like to discuss 
        style="border:1px solid black; padding:3px 6px; text-decoration:none;">Data</a>
     <a href="https://github.com/jiaruzouu/T-RAG" 
        style="border:1px solid black; padding:3px 6px; text-decoration:none;">Code</a>
+    <a href="https://www.linkedin.com/posts/jiaruzou_graphrag-rag-tablereasoning-activity-7383267082693533696-KlrJ?utm_source=share&utm_medium=member_desktop&rcm=ACoAADc5TzgBN_tNOuzpi7kE7n6dZ0y13EkxZOs" 
+       style="border:1px solid black; padding:3px 6px; text-decoration:none;">Post</a>
     <a href="https://medium.com/@namanlazarus/gtr-graph-table-rag-for-cross-table-question-answering-f8ed7cdc44cf" 
        style="border:1px solid black; padding:3px 6px; text-decoration:none;">Medium</a>
   </p>
