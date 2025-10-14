@@ -22,7 +22,7 @@ I’m always happy to connect! Feel free to email me if you’d like to discuss 
 # 📢 News
 
 **[10/2025]** Check [**TaTToo**](https://arxiv.org/abs/2510.06217), a special tool-grounded thinking PRM for test time scaling in tabular reasoning.\
-**[10/2025]** Small model, Big mind 🧠. Check our [new analytic study](https://arxiv.org/pdf/2510.11701) on Agentic RL.\
+**[10/2025]** Small model, Big mind 🧠. Check our [**new analytic study**](https://arxiv.org/pdf/2510.11701) on Agentic RL.\
 **[10/2025]** Check [**RAG Over Tables**](https://arxiv.org/abs/2504.01346v4), a coarse-to-fine hierarchical Graph-Table-RAG framework with a new [**benchmark**](https://huggingface.co/collections/jiaruz2/multitableqa-68dc8d850ea7e168f47cecd8).\
 **[09/2025]** Two papers accepted at NeurIPS 2025, including [**Transformer Copilot**](https://arxiv.org/abs/2505.16270) (<span style="color:red">**spotlight paper, top 3%**</span>) and [**ReasonFlux-PRM**](https://arxiv.org/abs/2506.18896).\
 **[08/2025]** Start my internship as a student researcher at Google DeepMind GenAI team.\
