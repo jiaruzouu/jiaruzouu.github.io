@@ -14,9 +14,9 @@ My research lies in the intersection of **machine learning** and **natural langu
 - **Data-Centric Learning:** structure/multimodal data representation learning, effecient data selection and pruning.
 - **Scientific Foundation Models:** AI for X (social science, weather forecasting, agriculture, clinic discovery, etc.).
 
-I’m always happy to connect! Feel free to email me if you’d like to discuss my research interests or potential collaborations!
+I’m always happy to connect! Feel free to email me if you’d like to discuss my research interests or potential collaborations. Let’s cook up something cool together! 👨🏻‍🍳
 
-📌 <span style="color:red">I am actively seeking Ph.D. opportunities starting in Fall 2026. If there is a good fit, please feel free to reach out to me through email at jiaruz2 [at] illinois [dot] edu.</span>
+<!-- 📌 <span style="color:red">I am actively seeking Ph.D. opportunities starting in Fall 2026. If there is a good fit, please feel free to reach out to me through email at jiaruz2 [at] illinois [dot] edu.</span> -->
 
 
 # 📢 News
@@ -85,7 +85,7 @@ I’m always happy to connect! Feel free to email me if you’d like to discuss 
       RAG over Tables: Hierarchical Memory Index, Multi-Stage Retrieval, and Benchmarking
     </a><br/>
     <span style="font-size:16px;">
-      <strong>Jiaru Zou</strong>, Dongqi Fu, Sirui Chen, Xinrui He, Zihao Li, Yada Zhu, Jiawei Han, Jingrui He
+      <strong>Jiaru Zou*</strong>, Dongqi Fu*, Sirui Chen, Xinrui He, Zihao Li, Yada Zhu, Jiawei Han, Jingrui He
     </span><br/>
     <span style="font-size:16px;"><strong>Preprint</strong></span>
   </p>
@@ -98,6 +98,8 @@ I’m always happy to connect! Feel free to email me if you’d like to discuss 
        style="border:1px solid black; padding:3px 6px; text-decoration:none;">Code</a>
     <a href="https://www.linkedin.com/posts/jiaruzou_graphrag-rag-tablereasoning-activity-7383267082693533696-KlrJ?utm_source=share&utm_medium=member_desktop&rcm=ACoAADc5TzgBN_tNOuzpi7kE7n6dZ0y13EkxZOs" 
        style="border:1px solid black; padding:3px 6px; text-decoration:none;">Post</a>
+    <a href="https://x.com/Jiaru_Zou/status/1977869000274055170" 
+       style="border:1px solid black; padding:3px 6px; text-decoration:none;">Twitter</a>
     <a href="https://medium.com/@namanlazarus/gtr-graph-table-rag-for-cross-table-question-answering-f8ed7cdc44cf" 
        style="border:1px solid black; padding:3px 6px; text-decoration:none;">Medium</a>
   </p>
