@@ -22,6 +22,8 @@ I’m always happy to connect! Feel free to email me if you’d like to discuss 
 # 📢 News
 
 **[10/2025]** Check [**TaTToo**](https://arxiv.org/abs/2510.06217), a special tool-grounded thinking PRM for test time scaling in tabular reasoning.\
+**[10/2025]** Small model, Big mind 🧠. Check our [new analytic study](https://arxiv.org/pdf/2510.11701) on Agentic RL.\
+**[10/2025]** Check [**RAG Over Tables**](https://arxiv.org/abs/2504.01346v4), a coarse-to-fine hierarchical Graph-Table-RAG framework with a new [**benchmark**](https://huggingface.co/collections/jiaruz2/multitableqa-68dc8d850ea7e168f47cecd8).\
 **[09/2025]** Two papers accepted at NeurIPS 2025, including [**Transformer Copilot**](https://arxiv.org/abs/2505.16270) (<span style="color:red">**spotlight paper, top 3%**</span>) and [**ReasonFlux-PRM**](https://arxiv.org/abs/2506.18896).\
 **[08/2025]** Start my internship as a student researcher at Google DeepMind GenAI team.\
 **[05/2025]** Start my internship as an applied scientist at Amazon.\
@@ -29,6 +31,48 @@ I’m always happy to connect! Feel free to email me if you’d like to discuss 
 
 # 📄 Selected Publications ([Full List](https://scholar.google.com/citations?user=GzLTey4AAAAJ&hl=en))
 (* denotes Equal Contribution)
+
+
+<table style="border-collapse:collapse; border:none; margin:0; padding:0;">
+<tr>
+<td width="160" style="border:none; vertical-align:top;">
+  <img src="images/papers/openRL.png" width="150" 
+       style="border-radius:12px; box-shadow:0 4px 12px rgba(0,0,0,0.15);"/>
+  <div style="margin-top:8px;">
+    <span style="background:#003366; color:white; padding:3px 6px; border-radius:4px; font-size:12px;">
+      Preprint
+    </span>
+  </div>
+</td>
+<td style="border:none; padding-left:20px; vertical-align:top;">
+  <p>
+    <a href="https://arxiv.org/abs/2510.11701" 
+       style="font-size:18px; font-weight:bold; color:inherit; text-decoration:none;">
+      Demystifying Reinforcement Learning in Agentic Reasoning
+    </a><br/>
+    <span style="font-size:16px;">
+      Zhaochen Yu, Ling Yang, <strong>Jiaru Zou</strong>, Shuicheng Yan, Mengdi Wang
+    </span><br/>
+    <span style="font-size:16px; font-weight:bold;">
+      Preprint
+    </span>
+  </p>
+  <p>
+    <a href="https://arxiv.org/pdf/2510.11701" 
+       style="border:1px solid black; padding:3px 6px; text-decoration:none;">PDF</a>
+    <a href="https://github.com/Gen-Verse/Open-AgentRL" 
+       style="border:1px solid black; padding:3px 6px; text-decoration:none;">Code</a>
+    <a href="https://huggingface.co/Gen-Verse/DemyAgent-4B" 
+       style="border:1px solid black; padding:3px 6px; text-decoration:none;">Model</a>
+    <a href="https://huggingface.co/datasets/Gen-Verse/Open-AgentRL-30K" 
+       style="border:1px solid black; padding:3px 6px; text-decoration:none;">Data</a>
+    <a href="https://x.com/LingYang_PU/status/1977931241916862779" 
+       style="border:1px solid black; padding:3px 6px; text-decoration:none;">Twitter</a>
+  </p>
+</td>
+</tr>
+</table>
+
 
 <table style="border-collapse:collapse; border:none; margin:0; padding:0;">
 <tr>
