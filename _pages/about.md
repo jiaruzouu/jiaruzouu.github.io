@@ -569,4 +569,25 @@ I’m always happy to connect! Feel free to email me if you’d like to discuss 
   }
 </style>
 
-
+<br><br>
+<div style="
+  text-align:center;
+  margin: 40px auto;
+">
+  <a href='https://clustrmaps.com/site/1c87x' title='Visit tracker' target="_blank">
+    <img 
+      src='https://clustrmaps.com/map_v2.png?cl=7f9de8&w=500&t=n&d=Y1dpqO88hB2DPdczZSnpMGGzp2rovUGVhiqwICY6ChI&co=ffffff&ct=ffffff'
+      alt='Visitor Map'
+      style="
+        width:400px;
+        max-width:80%;
+        border-radius:12px;
+        box-shadow:0 4px 20px rgba(0,0,0,0.15);
+        transition: all 0.3s ease;
+      "
+      onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0 8px 28px rgba(0,0,0,0.25)'"
+      onmouseout="this.style.transform='scale(1.0)'; this.style.boxShadow='0 4px 20px rgba(0,0,0,0.15)'"
+    />
+  </a>
+  <p style="color:#666; font-size:14px; margin-top:6px;">🌍 Visitors around the world</p>
+</div>
