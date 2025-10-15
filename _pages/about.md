@@ -470,7 +470,7 @@ I’m always happy to connect! Feel free to email me if you’d like to discuss 
 
 # ✨ Honors & Awards
 
-- NeurIPS 2025 Financial Aid Award, 2025
+- NeurIPS 2025 Scholar Award, 2025
 - Highest Honor Graduation at UIUC, 2024
 - Microsoft Stars of Tomorrow Award, 2023
 - O. Thomas and Martha S. Purl Scholarship, 2023
