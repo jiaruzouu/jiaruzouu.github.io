@@ -533,7 +533,7 @@ I’m always happy to connect! Feel free to email me if you’d like to discuss 
   <img src="images/misc/snowboard3.png" alt="Snowboard 3">
 </div>
 
-
+<br>
 <p style="font-size:18px; line-height:1.6; color:inherit;">
   I am also a fan of <strong>📸 Conceptual Photography</strong> and <strong>🎨 Visual Aesthetics</strong>.
 </p>
