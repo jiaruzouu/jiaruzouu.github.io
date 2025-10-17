@@ -21,6 +21,7 @@ I’m always happy to connect! Feel free to email me if you’d like to discuss 
 
 # 📢 News
 
+{: .news-scroll}
 **[10/2025]** Check [**TaTToo**](https://arxiv.org/abs/2510.06217), a special tool-grounded thinking PRM for test time scaling in tabular reasoning.\
 **[10/2025]** Small model, Big mind 🧠. Check our [**new analytic study**](https://arxiv.org/pdf/2510.11701) on Agentic RL.\
 **[10/2025]** Check [**RAG Over Tables**](https://arxiv.org/abs/2504.01346v4), a coarse-to-fine hierarchical Graph-Table-RAG framework with a new [**benchmark**](https://huggingface.co/collections/jiaruz2/multitableqa-68dc8d850ea7e168f47cecd8).\
@@ -28,6 +29,26 @@ I’m always happy to connect! Feel free to email me if you’d like to discuss 
 **[08/2025]** Start my internship as a student researcher at Google DeepMind GenAI team.\
 **[05/2025]** Start my internship as an applied scientist at Amazon.\
 **[05/2025]** One paper accepted at ACL 2025: [**STEM-PoM**](https://arxiv.org/abs/2411.00387), a benchmark on math-symbol reasoning.
+
+<style>
+.news-scroll {
+  max-height: 220px; /* adjust for how much you want visible */
+  overflow-y: auto;
+  scroll-behavior: smooth;
+}
+.news-scroll::-webkit-scrollbar {
+  width: 6px;
+}
+.news-scroll::-webkit-scrollbar-thumb {
+  background: #ccc;
+  border-radius: 3px;
+}
+.news-scroll::-webkit-scrollbar-thumb:hover {
+  background: #999;
+}
+</style>
+
+
 
 # 📄 Selected Publications ([Full List](https://scholar.google.com/citations?user=GzLTey4AAAAJ&hl=en))
 (* denotes Equal Contribution)
@@ -506,17 +527,36 @@ I’m always happy to connect! Feel free to email me if you’d like to discuss 
 </p>
 
 
-<p style="margin-top:10px;">
-  <a href="images/misc/snowboard1.png" target="_blank">
-    <img src="images/misc/snowboard1.png" width="80" style="border-radius:8px; margin-right:8px; box-shadow:0 4px 10px rgba(0,0,0,0.15); transition:0.3s;"/>
-  </a>
-  <a href="images/misc/snowboard2.png" target="_blank">
-    <img src="images/misc/snowboard2.png" width="180" style="border-radius:8px; margin-right:8px; box-shadow:0 4px 10px rgba(0,0,0,0.15); transition:0.3s;"/>
-  </a>
-  <a href="images/misc/snowboard3.png" target="_blank">
-    <img src="images/misc/snowboard3.png" width="180" style="border-radius:8px; box-shadow:0 4px 10px rgba(0,0,0,0.15); transition:0.3s;"/>
-  </a>
-</p>
+<style>
+.snowboard-gallery {
+  display: flex;
+  gap: 12px;
+  margin-top: 10px;
+  flex-wrap: wrap;
+}
+
+.snowboard-gallery img {
+  width: 160px; /* make all same size */
+  height: 160px;
+  object-fit: cover;
+  border-radius: 10px;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.15);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  cursor: pointer;
+}
+
+.snowboard-gallery img:hover {
+  transform: scale(1.05) translateY(-3px);
+  box-shadow: 0 8px 20px rgba(0,0,0,0.25);
+}
+</style>
+
+<div class="snowboard-gallery">
+  <img src="images/misc/snowboard1.png" alt="Snowboard 1">
+  <img src="images/misc/snowboard2.png" alt="Snowboard 2">
+  <img src="images/misc/snowboard3.png" alt="Snowboard 3">
+</div>
+
 
 <p style="font-size:18px; line-height:1.6; color:inherit;">
   I am also a fan of <strong>📸 Conceptual Photography</strong> and <strong>🎨 Visual Aesthetics</strong>.
@@ -526,41 +566,113 @@ I’m always happy to connect! Feel free to email me if you’d like to discuss 
 </div>
 
 
-<div style="
+<style>
+.image-grid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(40px, 1fr));
   gap: 10px;
-  margin-top: 16px;">
-  <a href="images/misc/art1.png" target="_blank">
-    <img src="images/misc/art1.png"
-         alt="Color abstraction"
-         style="width:100%; height:100%; object-fit:cover; border-radius:8px; transition:transform 0.3s, box-shadow 0.3s;"/>
-  </a>
-  
-  <a href="images/misc/art2.png" target="_blank">
-    <img src="images/misc/art2.png"
-         alt="Abstract installation"
-         style="width:100%; height:100%; object-fit:cover; border-radius:8px; transition:transform 0.3s, box-shadow 0.3s;"/>
-  </a>
+  margin-top: 16px;
+}
+.image-grid img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  border-radius: 8px;
+  transition: transform 0.3s, box-shadow 0.3s;
+  cursor: pointer;
+}
+.image-grid img:hover {
+  transform: scale(1.05);
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.3);
+}
 
-  <a href="images/misc/art3.png" target="_blank">
-    <img src="images/misc/art3.png"
-         alt="Portrait fusion"
-         style="width:100%; height:100%; object-fit:cover; border-radius:8px; transition:transform 0.3s, box-shadow 0.3s;"/>
-  </a>
+/* Lightbox overlay */
+.lightbox-overlay {
+  display: none;
+  position: fixed;
+  z-index: 999;
+  left: 0;
+  width: 100%;
+  height: calc(100vh - 70px); /* adjust 70px = your header height */
+  top: 50px; /* same as above */
+  background: rgba(0, 0, 0, 0.85);
+  justify-content: center;
+  align-items: center;
+}
 
-  <a href="images/misc/art4.png" target="_blank">
-    <img src="images/misc/art4.png"
-         alt="Ruined structure"
-         style="width:100%; height:100%; object-fit:cover; border-radius:8px; transition:transform 0.3s, box-shadow 0.3s;"/>
-  </a>
+.lightbox-overlay img {
+  max-width: 80%;
+  max-height: 80%;
+  border-radius: 12px;
+  box-shadow: 0 0 25px rgba(255, 255, 255, 0.3);
+  transition: transform 0.2s ease-in-out;
+}
 
-  <a href="images/misc/art5.png" target="_blank">
-    <img src="images/misc/art5.png"
-         alt="Horse close-up"
-         style="width:100%; height:100%; object-fit:cover; border-radius:8px; transition:transform 0.3s, box-shadow 0.3s;"/>
-  </a>
+.lightbox-overlay.active {
+  display: flex;
+  animation: fadeIn 0.3s ease;
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+
+.lightbox-overlay .close-btn {
+  position: absolute;
+  top: 10px;
+  right: 40px;
+  font-size: 36px;
+  color: white;
+  cursor: pointer;
+  transition: color 0.3s;
+}
+.lightbox-overlay .close-btn:hover {
+  color: #ccc;
+}
+</style>
+
+<div class="image-grid">
+  <img src="images/misc/art1.png" alt="Color abstraction" />
+  <img src="images/misc/art2.png" alt="Abstract installation" />
+  <img src="images/misc/art3.png" alt="Portrait fusion" />
+  <img src="images/misc/art4.png" alt="Ruined structure" />
+  <img src="images/misc/art5.png" alt="Horse close-up" />
 </div>
+
+<div class="lightbox-overlay" id="lightbox">
+  <span class="close-btn">&times;</span>
+  <img src="" alt="Expanded image" id="lightbox-img" />
+</div>
+
+<script>
+// --- Unified lightbox for both galleries ---
+document.querySelectorAll('.image-grid img, .snowboard-gallery img').forEach(img => {
+  img.addEventListener('click', () => {
+    const lightbox = document.getElementById('lightbox');
+    const lightboxImg = document.getElementById('lightbox-img');
+    lightboxImg.src = img.src;
+    lightbox.classList.add('active');
+    document.body.style.overflow = 'hidden'; // prevent scroll behind overlay
+  });
+});
+
+document.querySelector('.lightbox-overlay .close-btn').addEventListener('click', () => {
+  const lightbox = document.getElementById('lightbox');
+  lightbox.classList.remove('active');
+  document.body.style.overflow = ''; // restore scroll
+});
+
+// Allow click outside image to close
+document.getElementById('lightbox').addEventListener('click', e => {
+  if (e.target === e.currentTarget) {
+    e.currentTarget.classList.remove('active');
+    document.body.style.overflow = '';
+  }
+});
+</script>
+
+
 
 <style>
   img:hover {
