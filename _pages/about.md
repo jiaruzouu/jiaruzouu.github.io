@@ -527,30 +527,6 @@ I’m always happy to connect! Feel free to email me if you’d like to discuss 
 </p>
 
 
-<style>
-.snowboard-gallery {
-  display: flex;
-  gap: 12px;
-  margin-top: 10px;
-  flex-wrap: wrap;
-}
-
-.snowboard-gallery img {
-  width: 160px; /* make all same size */
-  height: 160px;
-  object-fit: cover;
-  border-radius: 10px;
-  box-shadow: 0 4px 10px rgba(0,0,0,0.15);
-  transition: transform 0.3s ease, box-shadow 0.3s ease;
-  cursor: pointer;
-}
-
-.snowboard-gallery img:hover {
-  transform: scale(1.05) translateY(-3px);
-  box-shadow: 0 8px 20px rgba(0,0,0,0.25);
-}
-</style>
-
 <div class="snowboard-gallery">
   <img src="images/misc/snowboard1.png" alt="Snowboard 1">
   <img src="images/misc/snowboard2.png" alt="Snowboard 2">
@@ -565,72 +541,6 @@ I’m always happy to connect! Feel free to email me if you’d like to discuss 
   A glimpse of my visual world — abstract forms, motion, and color captured through my lens.
 </div>
 
-
-<style>
-.image-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(40px, 1fr));
-  gap: 10px;
-  margin-top: 16px;
-}
-.image-grid img {
-  width: 100%;
-  height: 100%;
-  object-fit: cover;
-  border-radius: 8px;
-  transition: transform 0.3s, box-shadow 0.3s;
-  cursor: pointer;
-}
-.image-grid img:hover {
-  transform: scale(1.05);
-  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.3);
-}
-
-/* Lightbox overlay */
-.lightbox-overlay {
-  display: none;
-  position: fixed;
-  z-index: 999;
-  left: 0;
-  width: 100%;
-  height: calc(100vh - 70px); /* adjust 70px = your header height */
-  top: 50px; /* same as above */
-  background: rgba(0, 0, 0, 0.85);
-  justify-content: center;
-  align-items: center;
-}
-
-.lightbox-overlay img {
-  max-width: 80%;
-  max-height: 80%;
-  border-radius: 12px;
-  box-shadow: 0 0 25px rgba(255, 255, 255, 0.3);
-  transition: transform 0.2s ease-in-out;
-}
-
-.lightbox-overlay.active {
-  display: flex;
-  animation: fadeIn 0.3s ease;
-}
-
-@keyframes fadeIn {
-  from { opacity: 0; }
-  to { opacity: 1; }
-}
-
-.lightbox-overlay .close-btn {
-  position: absolute;
-  top: 10px;
-  right: 40px;
-  font-size: 36px;
-  color: white;
-  cursor: pointer;
-  transition: color 0.3s;
-}
-.lightbox-overlay .close-btn:hover {
-  color: #ccc;
-}
-</style>
 
 <div class="image-grid">
   <img src="images/misc/art1.png" alt="Color abstraction" />
@@ -673,13 +583,6 @@ document.getElementById('lightbox').addEventListener('click', e => {
 </script>
 
 
-
-<style>
-  img:hover {
-    transform: scale(1.05);
-    box-shadow: 0 8px 24px rgba(0,0,0,0.25);
-  }
-</style>
 
 <br><br>
 <div style="
