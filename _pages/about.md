@@ -22,7 +22,7 @@ I’m always happy to connect! Feel free to email me if you’d like to discuss 
 # 📢 News
 
 {: .news-scroll}
-**[10/2025]** Receive the <span style="color:red;">**Best Paper Award**</span> in ICCV 2025 Workshop on MMRAgI!
+**[10/2025]** Receive the <span style="color:red;">**Best Paper Award**</span> in ICCV 2025 Workshop on MMRAgI!\
 **[10/2025]** Check [**TaTToo**](https://arxiv.org/abs/2510.06217), a special tool-grounded thinking PRM for test time scaling in tabular reasoning.\
 **[10/2025]** Small model, Big mind 🧠. Check our [**new analytic study**](https://arxiv.org/pdf/2510.11701) on Agentic RL.\
 **[10/2025]** Check [**RAG Over Tables**](https://arxiv.org/abs/2504.01346v4), a coarse-to-fine hierarchical Graph-Table-RAG framework with a new [**benchmark**](https://huggingface.co/collections/jiaruz2/multitableqa-68dc8d850ea7e168f47cecd8).\
