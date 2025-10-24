@@ -9,9 +9,9 @@ redirect_from:
 I am currently a second-year M.S. student (with thesis) in Computer Science at University of Illinois Urbana-Champaign (UIUC). I am a member of [iDEA-iSAIL Lab](https://www.idea-isail.com/index.html), advised by [Prof. Jingrui He](https://www.hejingrui.org/). Prior to this, I earned my B.S. with highest honors in Computer Engineering at UIUC. I have been fortunate to work with [Prof. Mengdi Wang](https://mwang.princeton.edu/) at Princeton University, and [Prof. James Zou](https://www.james-zou.com/) at Stanford University. Currently, I am a student researcher at [Google DeepMind](https://deepmind.google/). I also held research internships at [Amazon](https://www.amazon.science/) and [Microsoft Research](https://www.microsoft.com/en-us/research/) before.  
 
 My research lies in the intersection of **machine learning** and **natural language processing**, with a specific focus on **LLMs Reasoning**. My research interests include but not limit to:
-- **Agentic AI:** single/multi-agent systems, tool integrated LLMs.
+- **Agentic AI:** single/multi-agent systems, tool-integrated LLMs.
 - **LLM Post-Training:** RLHF, reward modeling.
-- **Data-Centric Learning:** structure/multimodal data representation learning, effecient data selection and pruning.
+- **Data-Centric Learning:** structure/multimodal data representation learning, efficient data selection and pruning.
 - **Scientific Foundation Models:** AI for X (social science, weather forecasting, agriculture, clinic discovery, etc.).
 
 I’m always happy to connect! Feel free to email me if you’d like to discuss my research interests or potential collaborations. Let’s cook up something cool together! 👨🏻‍🍳
