@@ -73,7 +73,7 @@ I’m always happy to connect! Feel free to email me if you’d like to discuss 
       Demystifying Reinforcement Learning in Agentic Reasoning
     </a><br/>
     <span style="font-size:16px;">
-      Zhaochen Yu, Ling Yang, <strong>Jiaru Zou</strong>, Shuicheng Yan, Mengdi Wang
+      Zhaochen Yu*, Ling Yang*, <strong>Jiaru Zou</strong>, Shuicheng Yan, Mengdi Wang
     </span><br/>
     <span style="font-size:16px; font-weight:bold;">
       Preprint
